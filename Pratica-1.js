@@ -10,6 +10,8 @@ Profession = "Estudante"
 Age = "14"
 Place = "Lapland, Finlândia"
 
+console.log(Nick, Email, Profession, Age, Place);
+
 console.log(Nick);
 console.log(Email);
 console.log(Profession);
