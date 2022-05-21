@@ -9,3 +9,9 @@ Email = "gprimila@gmail.com"
 Profession = "Estudante"
 Age = "14"
 Place = "Lapland, Finlândia"
+
+console.log(Nick);
+console.log(Email);
+console.log(Profession);
+console.log(Age);
+console.log(Place);
